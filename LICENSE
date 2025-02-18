@@ -2,6 +2,14 @@ MIT License
 
 Copyright (c) 2025 Toracats
 
+This software is a modified version of the original software licensed under 
+the MIT License. Original copyright (c) 2023 Echoshard. All rights reserved.
+This software includes modifications made by Toracats to the original software 
+licensed under the MIT License. Modified portions of this software are extension
+of conversation functionality, implementation of slash commands and the ability
+to send DMs at random times, references to external configuration files, 
+modification of request libraries.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
